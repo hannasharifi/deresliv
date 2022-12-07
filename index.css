@@ -38,18 +38,7 @@ h2:after{
 
 
 
-.formbold-form-input {
-    width: 100%;
-    padding: 172px 100px;
-    border-radius: 6px;
-    border: 0.5px solid #050505;
-    background: white;
-    font-weight: 500;
-    font-size: 14px;
-    color: hsl(0, 0%, 0%);
-    outline: none;
-    text-align: center;
-    resize: none;
+ resize: none;
   }
 
 .formbold-form-label {
