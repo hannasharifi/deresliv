@@ -108,14 +108,7 @@ button{
 }
 
 
-@media screen and (max-width: 880px){
-	.contact-box{
-		grid-template-columns: 2fr;
-	}
-	.left{
-		height: 200px;
-	}
-}
+
 
 input[type='text'] {
     background: none;
