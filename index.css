@@ -1,0 +1,95 @@
+padding: 20px 100px;
+}
+
+
+.contact-box{
+	max-width: 850px;
+	display: grid;
+        grid-template-columns: repeat(2, 1fr);
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	background-color: #fff;
+	box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.19);
+}
+
+
+.right{
+	padding: 25px 40px;
+}
+
+h2{
+	position: relative;
+	padding: 0 0 10px;
+	margin-bottom: 10px;
+}
+
+h2:after{
+	content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    height: 4px;
+    width: 50px;
+    border-radius: 2px;
+    background-color: #2ecc71;
+}
+
+
+.formbold-form-input {
+    width: 30%;
+    padding: 172px 100px;
+    border-radius: 6px;
+    border: 0.5px solid #050505;
+    background: white;
+    font-weight: 500;
+    font-size: 14px;
+    color: hsl(0, 0%, 0%);
+    outline: none;
+    text-align: center;
+    resize: none;
+  }
+
+.formbold-form-label {
+    display: block;
+    font-weight: 500;
+    font-size: 16px;
+    color: #07074d;
+    margin-top: 20px;
+    text-align: center;
+  }
+  .formbold-form-label-2 {
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+
+button{
+	width: 99.5%;
+	padding: 0.5rem 0.2rem 0.2rem 0.2rem;
+	background-color: none;
+	color: rgb(31, 25, 25);
+	font-size: 1.1rem;
+	border: 0.2px solid black;
+	outline: none;
+	cursor: pointer;
+	transition: 1.3s;
+}
+
+
+
+
+
+
+
+textarea::before {
+   
+    text-align: center;
+}
+
+
+a:link {
+font-size: 20px;
+text-align: center;
+}
