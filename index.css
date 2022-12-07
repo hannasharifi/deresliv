@@ -55,17 +55,7 @@ h2:after{
     background-color: #2ecc71;
 }
 
-.contact-box{
-	width: 100%;
-    display: block;
-	border: 2px solid rgba(0, 0, 0, 0);
-	outline: none;
-	background-color: rgba(124, 86, 86, 0.6);
-	padding: 0.5rem 1rem;
-	font-size: 1.1rem;
-	margin-bottom: 22px;
-	transition: .3s;
-}
+
 
 .formbold-form-input {
     width: 100%;
