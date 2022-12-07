@@ -110,7 +110,7 @@ button{
 
 @media screen and (max-width: 880px){
 	.contact-box{
-		grid-template-columns: 1fr;
+		grid-template-columns: 2fr;
 	}
 	.left{
 		height: 200px;
