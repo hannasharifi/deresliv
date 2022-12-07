@@ -1,23 +1,4 @@
-*{
-	padding: 0;
-	margin: 0;
-	box-sizing: border-box;
-	font-family: courier new;
-}
-
-body{
-	height: 100vh;
-	width: 100%;
-}
-
-.hello{
-	position: relative;
-	width: 100%;
-	height: 100%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	padding: 20px 100px;
+padding: 20px 100px;
 }
 
 
