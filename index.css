@@ -100,18 +100,8 @@ button{
 
 
 
-input[type='text'] {
-    background: none;
-    width: 360px;
-    border: 0.2px solid black;
-    height: 450px;
-  
-    padding: 0.5rem 2rem;
-	font-size: 1.1rem;
-    margin: 5px;
-    box-sizing: border-box;
-    display: block;
-}
+
+
 
 textarea::before {
    
